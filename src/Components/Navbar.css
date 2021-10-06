@@ -3,3 +3,6 @@
   background-color: #082032;
   color: white;
 }
+.nav-container {
+  display: flex;
+}
